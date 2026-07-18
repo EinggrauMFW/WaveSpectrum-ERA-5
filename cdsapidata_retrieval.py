@@ -81,7 +81,7 @@ c.retrieve(
  
  
 # =============================================================================
-# SECTION 5 — ERA5 2D WAVE SPECTRA (special case, param 251.140)
+# SECTION 3 — ERA5 2D WAVE SPECTRA (special case, param 251.140)
 # The wave model stores data per spectral bin (direction x frequency), which
 # is a genuinely different shape of request. Two important caveats apply
 # (see notes at the bottom of this section).
